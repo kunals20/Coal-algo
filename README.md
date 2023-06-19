@@ -65,5 +65,25 @@ Blend 3: 40% Coal A, 30% Coal B, 20% Coal C, 10% Coal D
 
 Calculate the cost-adjusted quality score for each blend composition using the formulas from Step 4.
 
-Finally, compare the cost-adjusted quality scores of the blends to determine which one offers the highest score. The blend with the highest score would be the most efficient and cost-effective option for producing coke.
+
+To determine the optimal blend, we will calculate the cost-adjusted quality score for different blend compositions. We will compare these scores to identify the blend that offers the highest score, indicating the most efficient and cost-effective option for producing coke.
+
+Let's consider three potential blend compositions:
+
+Blend 1: 50% Coal A, 30% Coal B, 15% Coal C, 5% Coal D
+Blend 2: 45% Coal A, 30% Coal B, 20% Coal C, 5% Coal D
+Blend 3: 40% Coal A, 30% Coal B, 20% Coal C, 10% Coal D
+
+Calculate the cost-adjusted quality score for each blend composition using the formulas from Step 4.
+
+For example, to calculate the cost-adjusted quality score for Blend 1:
+
+Cost-adjusted Quality Score for Blend 1 = (50% * Cost-adjusted Quality Score for Coal A) +
+(30% * Cost-adjusted Quality Score for Coal B) +
+(15% * Cost-adjusted Quality Score for Coal C) +
+(5% * Cost-adjusted Quality Score for Coal D)
+
+Repeat the calculation for Blend 2 and Blend 3.
+
+Finally, compare the cost-adjusted quality scores of the different blends to determine which one offers the highest score. The blend with the highest score will be the most efficient and cost-effective option for producing coke.
 
